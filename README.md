@@ -1,5 +1,7 @@
 Clone from https://github.com/ruanyf/node-oauth-demo
 
+![](./images/client.png)
+
 A very simple demo of OAuth 2.0 using Node.js，to add GitHub login to your app and access GitHub API.
 
 ![](https://www.wangbase.com/blogimg/asset/201904/bg2019042103.jpg)
